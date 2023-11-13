@@ -20,11 +20,13 @@ Feature Encoding and Scaling.
 Display Encoded Target and Scaled Features.
 
 
-Developed by : NITHISHWAR S
-Register No. : 212221230071
 
 
 ## Code:
+```
+Developed by : NITHISHWAR S
+Register No. : 212221230071
+```
 ```python
 import pandas as pd
 import numpy as np
